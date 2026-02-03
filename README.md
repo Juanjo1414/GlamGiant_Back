@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 GlamGiant Backend
 =======
 <p align="center">
