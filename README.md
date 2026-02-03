@@ -1,7 +1,5 @@
 <<<<<<< HEAD
-# Parcial-Ingenieria-Web-2025-1
-
-Jara es el mejor :D
+GlamGiant Backend
 =======
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
